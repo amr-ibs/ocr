@@ -1,5 +1,5 @@
 #working
-%%writefile main.py
+
 
 import os
 os.environ["FLAGS_use_mkldnn"] = "0"
